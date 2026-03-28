@@ -13,12 +13,12 @@
                        sparkle:os="android" />
         </item>
 
-        <!-- iOS -->
+        <!-- iOS --><!-- add app id here line21 -->
         <item>
             <title>Version 1.0.1</title>
             <sparkle:version>1.0.1</sparkle:version>
             <sparkle:releaseNotesLink>Bug fixes and improvements</sparkle:releaseNotesLink>
-            <enclosure url="https://apps.apple.com/app/idYOUR_APP_ID"  <!-- add app id here -->
+            <enclosure url="https://apps.apple.com/app/idYOUR_APP_ID"  
                        sparkle:version="1.0.1"
                        sparkle:os="ios" />
         </item>
